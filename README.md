@@ -2,7 +2,7 @@
 ### PAO 🍞 — Projeto de Atividades Organizadas...
 
 <p align="center">
-  <img src="assets/decoracat.gif" width="120">
+  <img src="projeto-so/assets/decoracat.gif" width="120">
 </p>
 
 ## 📌 Sobre o Projeto
@@ -70,4 +70,4 @@ Os backups são armazenados em arquivos .sql, permitindo recuperação futura do
 
 👨‍💻 Projeto desenvolvido para a disciplina de Sistemas Operacionais como aplicação prática dos conceitos estudados.
 
-<img src="assets/famosin.gif">
+<img src="projeto-so/assets/famosin.gif">
